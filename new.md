@@ -5,3 +5,6 @@ Hello, this is normal text
 * Second bullet!
 
 [link to Google](www.google.com)
+
+Fixed the mistake that I made earlier!
+* This line was created in a new branch, that I will subsequently merge.
